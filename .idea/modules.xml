@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACM系统/ACM系统.iml" filepath="$PROJECT_DIR$/ACM系统/ACM系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IT黑马程序员_Java基础部分/IT黑马程序员_Java基础部分.iml" filepath="$PROJECT_DIR$/IT黑马程序员_Java基础部分/IT黑马程序员_Java基础部分.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2022初学加油.iml" filepath="$PROJECT_DIR$/Java2022初学加油.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工具包/工具包.iml" filepath="$PROJECT_DIR$/工具包/工具包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构/数据结构.iml" filepath="$PROJECT_DIR$/数据结构/数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/暨南大学机试往年题目/暨南大学机试往年题目.iml" filepath="$PROJECT_DIR$/暨南大学机试往年题目/暨南大学机试往年题目.iml" />
+      <module fileurl="file://$PROJECT_DIR$/王道机试/王道机试.iml" filepath="$PROJECT_DIR$/王道机试/王道机试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/用来测试的草稿/用来测试的草稿.iml" filepath="$PROJECT_DIR$/用来测试的草稿/用来测试的草稿.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥教育_算法很美/蓝桥教育_算法很美.iml" filepath="$PROJECT_DIR$/蓝桥教育_算法很美/蓝桥教育_算法很美.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥杯__入门题/蓝桥杯__入门题.iml" filepath="$PROJECT_DIR$/蓝桥杯__入门题/蓝桥杯__入门题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥杯_—简单题/蓝桥杯_—简单题.iml" filepath="$PROJECT_DIR$/蓝桥杯_—简单题/蓝桥杯_—简单题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥杯历年真题/蓝桥杯历年真题.iml" filepath="$PROJECT_DIR$/蓝桥杯历年真题/蓝桥杯历年真题.iml" />
+    </modules>
+  </component>
+</project>
